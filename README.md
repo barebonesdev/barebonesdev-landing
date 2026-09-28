@@ -35,6 +35,5 @@ Since the site uses relative links throughout, it works whether it's hosted at t
 
 ## Updating content
 
-- Contact email in the privacy policy (`support@barebonesdev.com`) is a placeholder — update it to a real address before publishing.
 - To add a new app card, copy an `.app-card` block in `index.html` and update the icon, copy, and link.
 
