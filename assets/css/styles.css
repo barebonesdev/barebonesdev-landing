@@ -492,6 +492,37 @@ section {
   margin-top: -8px;
 }
 
+/* ---------- Support ---------- */
+
+.support-section {
+  min-height: calc(100vh - 234px);
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.support-card {
+  max-width: 640px;
+  margin: 0 auto;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 48px 36px;
+  box-shadow: var(--shadow);
+}
+
+.support-card h1 {
+  margin: 0 0 16px;
+  font-size: clamp(2rem, 4vw, 3rem);
+  letter-spacing: -0.02em;
+}
+
+.support-card p {
+  max-width: 520px;
+  margin: 0 auto 28px;
+  color: var(--text-muted);
+}
+
 /* ---------- Footer ---------- */
 
 .site-footer {

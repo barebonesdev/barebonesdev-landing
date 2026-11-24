@@ -11,6 +11,7 @@ A simple, modern static landing site for **BareBones Dev**, showcasing our apps:
 
 ```
 index.html                                        Home page
+support.html                                      Support page
 apps/wa-driver-license-appointment-finder/
   index.html                                       App landing page
   privacy.html                                      Privacy policy
